@@ -1,3 +1,5 @@
+# PKPInformatyka
+
 1.A. W jakim celu używa się klas abstrakcyjnych, a w jakim interfejsów?
 
 Klas abstrakcyjnych używa się do odwzorowania pewnej hierarchi w programie, to znaczy jeżeli klasa wyższa posiada cechy klas niższych lub mają one niewielkie modyfikacje.
