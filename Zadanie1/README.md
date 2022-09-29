@@ -6,6 +6,10 @@ jeżeli klasa wyższa posiada cechy klas niższych lub mają one niewielkie mody
 - Pozwala to na łatwe zaimplementowanie dodatkowych cech/zachowań dla każdej klasy
 dziedziczącej po klasie abstrakcyjnej poprzez dodanie do niej dodatkowych metod.
 
+Interfejsów używa się do:
+- służą do tworzenia interfejsów funkcyjnych czyli posiadających jedną metodę, wykorzystuje się je to wyrażeń lambda
+- używa się ich do wymuszenia zaimplemetowania metod określajacyh zachowanie danego obiektu. W każdej klasie która dziedziczy interfejs jego metoda musi zostać nadpisana i może się ona różnić od tych samych metod innych klasach implementujących ten sam interfejs.
+
 1.B. Czym różni się tablica od listy liniowej?
 
 - Wielkość tablicy jest zadeklarowana przy jej tworzeniu (statyczną) i niezmienną w dalszym działaniu programu
