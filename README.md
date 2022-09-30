@@ -11,7 +11,7 @@ Interfejsów używa się do:
 - służą do tworzenia interfejsów funkcyjnych czyli posiadających jedną metodę, wykorzystuje się je to wyrażeń lambda używa się ich do wymuszenia zaimplemetowania metod określajacyh zachowanie danego obiektu. 
 - W każdej klasie która dziedziczy interfejs jego metoda musi zostać nadpisana i może się ona różnić od tych samych metod w innych klasach implementujących ten sam interfejs. Używa się jej do określenia zachowania obiektu ale nie określa typu tego zachowania. Np. metoda w interfejsie zrobHalas() wykorzystana na obiektach klasy kot oraz pies będzie miała inne ciało metody przy tej samej nazwie metody i wykorzystaniu tego samego interfejsu.
 
-==================================================================================================
+=============================================================================================
 
 1.B. Czym różni się tablica od listy liniowej?
 
