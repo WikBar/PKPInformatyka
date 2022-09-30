@@ -11,8 +11,10 @@ public class Main {
 // Podaj szacowaną złożoność obliczeniową oraz pamięciową. Poniżej sygnatura metody do napisania.
         //zlozonosc obliczneiowa O(log_2 n);
         //Zlozonosc pamieciowa O(1);
+        // Creating numbers array
         int[] numbers = {50, 20, 10, 0, -10};
         int x = 0;
+        //create object with taken array and a searched number
         Searching searching=new Searching(numbers,x);
     }
 }
