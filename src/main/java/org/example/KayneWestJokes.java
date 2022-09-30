@@ -14,8 +14,10 @@ public class KayneWestJokes {
         // Zwróć uwagę na poprawną architekturę aplikacji oraz na czystość kodu.
         //Dla chętnych, za dodatkowe punkty: dodaj zapisywanie cytatów w pamięci, by upewnić się, że każdy kolejny cytat jest nowy.
 
+        // creating objects of scanner and user Interface object
         Scanner scan=new Scanner(System.in);
         UserInterface ui=new UserInterface(scan);
+        // starting user interface
         ui.start();
 
     }
